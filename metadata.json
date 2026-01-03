@@ -1,0 +1,7 @@
+{
+  "name": "MacVoiceMemos",
+  "description": "A web replica of macOS Voice Memos with enhanced playback features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
